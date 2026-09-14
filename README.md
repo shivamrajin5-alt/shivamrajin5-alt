@@ -29,4 +29,4 @@ I’m a BCA student interested in software development, problem solving, cyberse
 - More programming & development skills
 
 ### 🔗 Connect with me
-- LinkedIn: 
+- LinkedIn: www.linkedin.com/in/shivam-raj-198b9542b
