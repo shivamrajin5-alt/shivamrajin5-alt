@@ -1,16 +1,32 @@
 ## Hi there 👋
+# Hi, I'm Shivam Raj 👋
 
-<!--
-**shivamrajin5-alt/shivamrajin5-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Student | C++ & Python Learner | Exploring Cybersecurity
 
-Here are some ideas to get you started:
+I’m a BCA student interested in software development, problem solving, cybersecurity, and computer networks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Learning
+- C++
+- Python
+- Problem Solving
+- Git & GitHub
+- Computer Networks
+- Cybersecurity — Exploring
+
+### 🚀 Projects
+- C++ Basic Problem Solving — 60+ problems
+- C++ Calculator
+- Student Management System
+- Python Cafe Management System
+- Python ATM Project
+- Rock Paper Scissors
+- Number Guessing Game
+
+### 📚 Currently Learning
+- Computer Networks
+- Cybersecurity
+- Git & GitHub
+- More programming & development skills
+
+### 🔗 Connect with me
+- LinkedIn: 
