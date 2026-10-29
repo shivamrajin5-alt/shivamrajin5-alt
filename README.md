@@ -11,6 +11,7 @@ I’m a BCA student interested in software development, problem solving, cyberse
 - Problem Solving
 - Git & GitHub
 - Computer Networks
+- HTML and CSS
 - Cybersecurity — Exploring
 
 ### 🚀 Projects
@@ -21,12 +22,14 @@ I’m a BCA student interested in software development, problem solving, cyberse
 - Python ATM Project
 - Rock Paper Scissors
 - Number Guessing Game
+- Portfolio Website
 
 ### 📚 Currently Learning
 - Computer Networks
 - Cybersecurity
 - Git & GitHub
 - More programming & development skills
+- Javascript
 
 ### 🔗 Connect with me
 - LinkedIn: www.linkedin.com/in/shivam-raj-198b9542b
